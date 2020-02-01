@@ -4,6 +4,6 @@
 	<title>MY HOME PAGE</title>
 </head>
 <body>
-	<h1>Selamat Datang di Home Page Muhammad Hafif Al Busyro</h1>
+	<h1>Selamat Datang di Home Page Hafif</h1>
 </body>
 </html>
